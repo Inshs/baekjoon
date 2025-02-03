@@ -1,3 +1,5 @@
+#처음 올린 것
+
 n = input()
 
 sorted_n = sorted(n,reverse=True)
